@@ -1,0 +1,27 @@
+h1, p {
+  font-family: Lato;
+  font-size: 25;
+  color: black;
+}
+#remo{
+  background-color: greenyellow;
+  background-image:url("https://i.pinimg.com/564x/bb/d7/a1/bbd7a1a021ffff84f03656edcd33bb11.jpg");
+}
+div{
+  background-color:darkseagreen;
+}
+#top{
+  align-content: center;
+  background-color: blue;
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-shading-background-abstract-colorful-background-colorful-art-image_22644.jpg");
+}
+.rem{
+  text-align: center;
+}
+button{
+  border-radius: 8px;
+  background-color: greenyellow;
+}
+.cho{
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/04/37/47/52584b4c3be21a1.jpg");
+}
